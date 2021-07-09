@@ -20,6 +20,7 @@ This provider is maintained internally by the HashiCorp AWS Provider team.
 
 Please note: We take Terraform's security and our users' trust very seriously. If you believe you have found a security issue in the Terraform AWS Provider, please responsibly disclose by contacting us at security@hashicorp.com.
 
+* alexawesomecode: added cloud9 image_id support. code is from 'johnthedev97' and PR is this: https://github.com/hashicorp/terraform-provider-aws/pull/19195 *
 ## Quick Starts
 
 - [Using the provider](https://www.terraform.io/docs/providers/aws/index.html)
